@@ -1,4 +1,4 @@
-package br.com.vr.miniautorizador;
+package br.com.vr.miniautorizador.config;
 
 import lombok.RequiredArgsConstructor;
 import org.flywaydb.core.Flyway;
